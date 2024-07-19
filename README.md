@@ -12,7 +12,7 @@ This project is a Random Password Generator built using Java Swing. It allows us
 
 Check out the functionality of the application in this demo video on YouTube:
 
-[Watch the demo on YouTube]()
+[Watch the demo on YouTube](https://youtu.be/_5nbog1JO9c)
 
 ## Screenshot
 
@@ -34,8 +34,8 @@ Check out the functionality of the application in this demo video on YouTube:
 If you'd like to contribute to this project, please fork the repository and submit a pull request. Contributions are welcome!
 
 ## License
-This project is licensed under the MIT License. See the LICENSE(LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-GitHub: 
-Twitter:
+GitHub:[tulaseeram-panga](https://github.com/yourusername)
+Twitter:[tulaseerampanga](https://twitter.com/tulaseerampanga)
