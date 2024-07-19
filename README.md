@@ -16,7 +16,7 @@ Check out the functionality of the application in this demo video on YouTube:
 
 ## Screenshot
 
-![Game Screenshot]()
+![Game Screenshot](Screenshots/IMG_20240719_12222440.jpeg)
 
 ## Getting Started
 
